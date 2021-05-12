@@ -1,0 +1,29 @@
+C:\Users\halim\Desktop\.net\Projet1Quiz\obj\Debug\netcoreapp3.1\Projet1Quiz.AssemblyInfoInputs.cache
+C:\Users\halim\Desktop\.net\Projet1Quiz\obj\Debug\netcoreapp3.1\Projet1Quiz.AssemblyInfo.cs
+C:\Users\halim\Desktop\.net\Projet1Quiz\obj\Debug\netcoreapp3.1\Projet1Quiz.csproj.CoreCompileInputs.cache
+C:\Users\halim\Desktop\.net\Projet1Quiz\bin\Debug\netcoreapp3.1\Projet1Quiz.exe
+C:\Users\halim\Desktop\.net\Projet1Quiz\bin\Debug\netcoreapp3.1\Projet1Quiz.deps.json
+C:\Users\halim\Desktop\.net\Projet1Quiz\bin\Debug\netcoreapp3.1\Projet1Quiz.runtimeconfig.json
+C:\Users\halim\Desktop\.net\Projet1Quiz\bin\Debug\netcoreapp3.1\Projet1Quiz.runtimeconfig.dev.json
+C:\Users\halim\Desktop\.net\Projet1Quiz\bin\Debug\netcoreapp3.1\Projet1Quiz.dll
+C:\Users\halim\Desktop\.net\Projet1Quiz\bin\Debug\netcoreapp3.1\Projet1Quiz.pdb
+C:\Users\halim\Desktop\.net\Projet1Quiz\bin\Debug\netcoreapp3.1\ConsoleTables.dll
+C:\Users\halim\Desktop\.net\Projet1Quiz\obj\Debug\netcoreapp3.1\Projet1Quiz.csproj.CopyComplete
+C:\Users\halim\Desktop\.net\Projet1Quiz\obj\Debug\netcoreapp3.1\Projet1Quiz.dll
+C:\Users\halim\Desktop\.net\Projet1Quiz\obj\Debug\netcoreapp3.1\Projet1Quiz.pdb
+C:\Users\halim\Desktop\.net\Projet1Quiz\obj\Debug\netcoreapp3.1\Projet1Quiz.genruntimeconfig.cache
+C:\Users\peter\Desktop\Exercice\Projet1\Projet quizz\projetquiz\bin\Debug\netcoreapp3.1\Projet1Quiz.exe
+C:\Users\peter\Desktop\Exercice\Projet1\Projet quizz\projetquiz\bin\Debug\netcoreapp3.1\Projet1Quiz.deps.json
+C:\Users\peter\Desktop\Exercice\Projet1\Projet quizz\projetquiz\bin\Debug\netcoreapp3.1\Projet1Quiz.runtimeconfig.json
+C:\Users\peter\Desktop\Exercice\Projet1\Projet quizz\projetquiz\bin\Debug\netcoreapp3.1\Projet1Quiz.runtimeconfig.dev.json
+C:\Users\peter\Desktop\Exercice\Projet1\Projet quizz\projetquiz\bin\Debug\netcoreapp3.1\Projet1Quiz.dll
+C:\Users\peter\Desktop\Exercice\Projet1\Projet quizz\projetquiz\bin\Debug\netcoreapp3.1\Projet1Quiz.pdb
+C:\Users\peter\Desktop\Exercice\Projet1\Projet quizz\projetquiz\bin\Debug\netcoreapp3.1\ConsoleTables.dll
+C:\Users\peter\Desktop\Exercice\Projet1\Projet quizz\projetquiz\obj\Debug\netcoreapp3.1\Projet1Quiz.csprojAssemblyReference.cache
+C:\Users\peter\Desktop\Exercice\Projet1\Projet quizz\projetquiz\obj\Debug\netcoreapp3.1\Projet1Quiz.AssemblyInfoInputs.cache
+C:\Users\peter\Desktop\Exercice\Projet1\Projet quizz\projetquiz\obj\Debug\netcoreapp3.1\Projet1Quiz.AssemblyInfo.cs
+C:\Users\peter\Desktop\Exercice\Projet1\Projet quizz\projetquiz\obj\Debug\netcoreapp3.1\Projet1Quiz.csproj.CoreCompileInputs.cache
+C:\Users\peter\Desktop\Exercice\Projet1\Projet quizz\projetquiz\obj\Debug\netcoreapp3.1\Projet1Quiz.csproj.CopyComplete
+C:\Users\peter\Desktop\Exercice\Projet1\Projet quizz\projetquiz\obj\Debug\netcoreapp3.1\Projet1Quiz.dll
+C:\Users\peter\Desktop\Exercice\Projet1\Projet quizz\projetquiz\obj\Debug\netcoreapp3.1\Projet1Quiz.pdb
+C:\Users\peter\Desktop\Exercice\Projet1\Projet quizz\projetquiz\obj\Debug\netcoreapp3.1\Projet1Quiz.genruntimeconfig.cache

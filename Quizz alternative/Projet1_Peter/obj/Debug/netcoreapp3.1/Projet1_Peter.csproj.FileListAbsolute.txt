@@ -1,0 +1,13 @@
+C:\Users\peter\Desktop\Exercice\Projet1\Projet1_Peter\Projet1_Peter\bin\Debug\netcoreapp3.1\Projet1_Peter.exe
+C:\Users\peter\Desktop\Exercice\Projet1\Projet1_Peter\Projet1_Peter\bin\Debug\netcoreapp3.1\Projet1_Peter.deps.json
+C:\Users\peter\Desktop\Exercice\Projet1\Projet1_Peter\Projet1_Peter\bin\Debug\netcoreapp3.1\Projet1_Peter.runtimeconfig.json
+C:\Users\peter\Desktop\Exercice\Projet1\Projet1_Peter\Projet1_Peter\bin\Debug\netcoreapp3.1\Projet1_Peter.runtimeconfig.dev.json
+C:\Users\peter\Desktop\Exercice\Projet1\Projet1_Peter\Projet1_Peter\bin\Debug\netcoreapp3.1\Projet1_Peter.dll
+C:\Users\peter\Desktop\Exercice\Projet1\Projet1_Peter\Projet1_Peter\bin\Debug\netcoreapp3.1\Projet1_Peter.pdb
+C:\Users\peter\Desktop\Exercice\Projet1\Projet1_Peter\Projet1_Peter\obj\Debug\netcoreapp3.1\Projet1_Peter.csprojAssemblyReference.cache
+C:\Users\peter\Desktop\Exercice\Projet1\Projet1_Peter\Projet1_Peter\obj\Debug\netcoreapp3.1\Projet1_Peter.AssemblyInfoInputs.cache
+C:\Users\peter\Desktop\Exercice\Projet1\Projet1_Peter\Projet1_Peter\obj\Debug\netcoreapp3.1\Projet1_Peter.AssemblyInfo.cs
+C:\Users\peter\Desktop\Exercice\Projet1\Projet1_Peter\Projet1_Peter\obj\Debug\netcoreapp3.1\Projet1_Peter.csproj.CoreCompileInputs.cache
+C:\Users\peter\Desktop\Exercice\Projet1\Projet1_Peter\Projet1_Peter\obj\Debug\netcoreapp3.1\Projet1_Peter.dll
+C:\Users\peter\Desktop\Exercice\Projet1\Projet1_Peter\Projet1_Peter\obj\Debug\netcoreapp3.1\Projet1_Peter.pdb
+C:\Users\peter\Desktop\Exercice\Projet1\Projet1_Peter\Projet1_Peter\obj\Debug\netcoreapp3.1\Projet1_Peter.genruntimeconfig.cache
